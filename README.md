@@ -30,3 +30,7 @@ import vigenere
 # Decrypt a ciphertext file
 decryption_key = vigenere.decrypt_file('example_ciphertext')
 print("Decryption key:", decryption_key)
+```
+
+## Contribution:
+Contributions to this project are welcome! Feel free to submit issues or pull requests to suggest improvements or report bugs.
