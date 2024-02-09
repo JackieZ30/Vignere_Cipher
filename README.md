@@ -6,7 +6,7 @@ This Python project implements various techniques to crack Vigenère ciphers, hi
 
 1. **vigenere.py**: Contains functions for analyzing and decrypting Vigenère ciphertexts.
 2. **ciphers.py**: Defines several substitution ciphers, including Caesar shift and keyword ciphers.
-3. **test.py**: Demonstrates the functionality of the Vigenère cipher cracker through tests on sample ciphertexts.
+3. **vigenere_testing.py**: Demonstrates the functionality of the Vigenère cipher through tests on sample ciphertexts.
 
 ## Features:
 
