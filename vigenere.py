@@ -1,6 +1,3 @@
-# Name: Kan Xing Zheng
-# Collaborators: 
-# Comments: Challenge Key = SOMEONEMUSTHAVEBEENTELLINGLIESABOUTJOSEFKHEKNEWHEHADDONENOTHINGWRONGBUTONEMORNINGHEWASARRESTED
 
 import ciphers
 from collections import Counter
